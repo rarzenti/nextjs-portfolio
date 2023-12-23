@@ -10,7 +10,6 @@ const TAB_DATA = [
         content: (
             <ul className="list-disc pl-2">
                 <li>Electromechanical Enegineering</li>
-                <li>Applications Engineering</li>
                 <li>Engineering Management</li>
                 <li>AWS</li>
                 <li>Kubernetes</li>
@@ -28,7 +27,7 @@ const TAB_DATA = [
             <ul className="list-disc pl-2">
                 <li>Penn State Univerity</li>
                 <li>BS Mechanical Engineering</li>
-                <li>GPA 3.3</li>
+                <li>Class of 2016</li>
             </ul>
         )
     },
@@ -37,9 +36,9 @@ const TAB_DATA = [
         id: "certifications",
         content: (
             <ul className="list-disc pl-2">
-                <li>Lean Six Sigma Green Belt</li>
-                <li>AWS Cloud Practitioner</li>
                 <li>Certified Kubernetes Administrator (CKA)</li>
+                <li>AWS Cloud Practitioner</li>
+                <li>Lean Six Sigma Green Belt</li>                
             </ul>
         )
     }
@@ -60,7 +59,12 @@ const AboutSection = () => {
                 <Image src="/images/about-image.png" width={500} height={500} />
                 <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
                     <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
-                    <p className="text-base lg:text-lg">I'm an engineer by day and working hard to improve my developer skills. I've been doing alot of work in my evenings to learn new skills and work on projects just like this website!
+                    <p className="text-base lg:text-lg">
+                        I am an engineering manager with GE Renewable Energy. Most of my career has been spent in operations and engineering.
+                        <br></br>
+                        I've always been interested in programming, data, and networking. I've been doing several projects in these fields during my free time. 
+                        <br></br>
+                        Check out my experiences below or download my resume above. 
                     </p>
                     <div className="flex flex-row mt-8">
                         <TabButton 

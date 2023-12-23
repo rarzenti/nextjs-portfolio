@@ -82,9 +82,10 @@ const ProjectsSection = () => {
 
     return (
         <section id="projects">
-            <h2 className="text-center text-4xl font-bold text-white mt-4 mb-8 md:mb-12">
+            <h2 className="text-center text-4xl font-bold text-white mt-4 mb-1">
                 My Projects
             </h2>
+            <h3 class="italic text-center mb-8 md:mb-12">- Under Construction -</h3>
             <div className="text-white flex flex-row justify-center items-center gap-2 py-6">
                 <ProjectTag
                     onClick={handleTagChange}

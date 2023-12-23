@@ -48,7 +48,7 @@ const EmailSection = () => {
           <p className="text-[#ADB7BE] mb-4 max-w-md">I'm currently looking for new opportunities.
           </p>
         <div className="socials flex flex-row gap-2">
-          <Link href="github.com">
+          <Link href="https://github.com/rarzenti">
             <Image src={GithubIcon} alt="Github Icon" />
           </Link>
           <Link href={"https://www.linkedin.com/in/rarzenti/"}>
