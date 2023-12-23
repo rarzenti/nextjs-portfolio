@@ -62,7 +62,7 @@ const AboutSection = () => {
                     <p className="text-base lg:text-lg">
                         I am an engineering manager with GE Renewable Energy. Most of my career has been spent in operations and engineering.
                         <br></br>
-                        I've always been interested in programming, data, and networking. I've been doing several projects in these fields during my free time. 
+                        I&apos;ve always been interested in programming, data, and networking. I&apos;ve been doing several projects in these fields during my free time. 
                         <br></br>
                         Check out my experiences below or download my resume above. 
                     </p>
