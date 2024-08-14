@@ -33,14 +33,14 @@ const HeroSection = () => {
               </h1>
               <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
                   Hello and thanks for visiting my personal website!<br></br>
-                  Merry Christmas!
+                  Happy Summer!
               </p>
               <div>
               <Link
               href="/#contact"
               className="px-6 inline-block py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-200 text-white"
             >
-              Hire Me
+              Contact Me
             </Link>
             <Link
               href="/R Arzenti - Resume.pdf"
