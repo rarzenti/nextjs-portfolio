@@ -20,9 +20,9 @@ const HeroSection = () => {
                     2000, 
                     'r-zenti',
                     2000,
-                    'Jobin',
+                    'ry-guy',
                     2000,
-                    'Handsome',
+                    'ry dawg',
                     2000
                   ]}
                   wrapper="span"
