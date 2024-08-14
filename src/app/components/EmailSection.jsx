@@ -45,7 +45,7 @@ const EmailSection = () => {
       <div className="z-10">
   
           <h5 className="text-xl font-bold text-white my-2">Let&apos;s Connect</h5>
-          <p className="text-[#ADB7BE] mb-4 max-w-md">I&apos;m currently looking for new opportunities.
+          <p className="text-[#ADB7BE] mb-4 max-w-md">I&apos;m always interested in talking to new people!
           </p>
         <div className="socials flex flex-row gap-2">
           <Link href="https://github.com/rarzenti">
